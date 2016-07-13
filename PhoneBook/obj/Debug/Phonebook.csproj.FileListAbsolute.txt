@@ -1,0 +1,18 @@
+c:\users\ivana\documents\visual studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\ivana\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Phonebook.dll.config
+c:\users\ivana\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Phonebook.dll
+c:\users\ivana\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Phonebook.pdb
+c:\users\ivana\documents\visual studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.dll
+c:\users\ivana\documents\visual studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\user\Desktop\Phonebook-exercise-master\Phonebook-exercise-master\Adonet\Phonebook\bin\Phonebook.dll.config
+C:\Users\user\Desktop\Phonebook-exercise-master\Phonebook-exercise-master\Adonet\Phonebook\bin\Phonebook.dll
+C:\Users\user\Desktop\Phonebook-exercise-master\Phonebook-exercise-master\Adonet\Phonebook\bin\Phonebook.pdb
+C:\Users\user\Desktop\Phonebook-exercise-master\Phonebook-exercise-master\Adonet\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Phonebook-exercise-master\Phonebook-exercise-master\Adonet\Phonebook\obj\Debug\Phonebook.dll
+C:\Users\user\Desktop\Phonebook-exercise-master\Phonebook-exercise-master\Adonet\Phonebook\obj\Debug\Phonebook.pdb
+D:\ICard\PhoneBook\Phonebook\bin\Phonebook.dll.config
+D:\ICard\PhoneBook\Phonebook\bin\Phonebook.dll
+D:\ICard\PhoneBook\Phonebook\bin\Phonebook.pdb
+D:\ICard\PhoneBook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\ICard\PhoneBook\Phonebook\obj\Debug\Phonebook.dll
+D:\ICard\PhoneBook\Phonebook\obj\Debug\Phonebook.pdb
